@@ -1,8 +1,6 @@
 # Simple React.js to-do list 
 
 This project is refer to [布魯斯前端's video](https://youtu.be/zqV7NIFGDrQ).
-- Beginner friendly ( JS basic needed )
-- Clean code
 
 ## What I learned in this project
 
