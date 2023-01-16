@@ -1,6 +1,5 @@
 # Simple React.js to-do list 
 
-This project is refer to [布魯斯前端's video](https://youtu.be/zqV7NIFGDrQ).
 
 ## What I learned in this project
 
